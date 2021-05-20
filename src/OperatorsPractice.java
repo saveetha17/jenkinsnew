@@ -27,8 +27,8 @@ public class OperatorsPractice {
         result=1;
         boolean isCitizen = true;
         System.out.println(isCitizen && num1==10 && num2>5 && result>0);
-        int a=20;
-        int b=-15;
+        int a=7;
+        int b=-1;
         System.out.println("equals " +(a==b));
         System.out.println(a!=b);
         System.out.println(a>=b);
